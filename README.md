@@ -9,3 +9,5 @@ og ble ikke flyttet ut av mappen til pakken, som gjør at filstrukturen ble litt
 Dette spillet ble startet på lørdag kl 14 og var levert søndag kl 15.
 
 "Vi burde ansette de som lagde dette spillet" - en ansatt i Bouvet
+
+Muligens tilgjengelig å spilles online her: https://andreas-bertelsen.itch.io/scaleman
